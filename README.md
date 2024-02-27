@@ -7,5 +7,8 @@ This wide range of market data includes cryptocurrency trade data, order book da
 https://www.cryptocompare.com/
 
 
+npm add lodash
+npm add fuzzy
+
 
 
